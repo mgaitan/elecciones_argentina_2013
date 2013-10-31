@@ -14,7 +14,7 @@ Microsoft Access (.mdb).
 Liberando los datos
 ---------------------
 
-Los csv se extrayeron a través del software libre `mdbtools <http://mdbtools.sourceforge.net>`_ ::
+Los csv se extrajeron a través del software libre `mdbtools <http://mdbtools.sourceforge.net>`_ ::
 
 
     $ sudo apt-get install mdbtools
