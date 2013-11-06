@@ -7,9 +7,11 @@ Dump de datos en formato CSV del programa http://www.resultados.gob.ar/inimesas.
 Por qué?
 ---------
 
-Es **lamentable** que el Estado no publique los datos en un formato abierto. En cambio,
-estos datos están empaquetados en una aplicación windows utilizando una base de datos
-Microsoft Access (.mdb).
+Estos datos están empaquetados en una aplicación windows utilizando una base de datos
+Microsoft Access (.mdb). Son a alternativos (digamos, más crudos) a los publicados en 
+http://datospublicos.gob.ar/data/dataset/elecciones-2013
+
+
 
 Liberando los datos
 ---------------------
