@@ -4,11 +4,11 @@ Elecciones Argentina 2013
 Dump de datos en formato CSV del programa http://www.resultados.gob.ar/inimesas.htm
 
 
-Por qué?
+¿Por qué?
 ---------
 
 Estos datos están empaquetados en una aplicación windows utilizando una base de datos
-Microsoft Access (.mdb). Son a alternativos (digamos, más crudos) a los publicados en 
+Microsoft Access (.mdb). Son alternativos (digamos, más crudos) a los publicados en 
 http://datospublicos.gob.ar/data/dataset/elecciones-2013
 
 
